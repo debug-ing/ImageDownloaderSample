@@ -1,6 +1,5 @@
-# ImageDownloaderSample
+# Sample Image Downloader
 
-##Sample Image Downloader
 
 1. Show Thumbmail Image
 2. Download Image With Progress And First Finish Save Internal phone
