@@ -3,8 +3,8 @@
 ##Sample Image Downloader
 
 1. Show Thumbmail Image
-2. Download Image And Save Internal phone
-3. Lets Check photo strage and Show Image
+2. Download Image With Progress And First Finish Save Internal phone
+3. Let's Check photo strage and Show Image
 
 
 ![Screenshot_2020-07-15-01-54-52-697_com ninjageeks imagedownloder](https://user-images.githubusercontent.com/46979964/87478859-ac0d1800-c63f-11ea-838f-5ab5c84430f7.jpg)
